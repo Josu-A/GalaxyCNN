@@ -1,0 +1,7 @@
+# PyTorch with DirectML support (Windows GPU)
+# Install using: pip install -r requirements-directml.txt
+
+-r requirements.txt
+
+# DirectML support
+torch-directml==0.2.5.dev240914

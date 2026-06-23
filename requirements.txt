@@ -1,0 +1,17 @@
+# Base dependencies for Galaxy CNN Project
+numpy==2.4.0
+pandas==2.3.3
+matplotlib==3.10.8
+scikit-learn==1.8.0
+scipy==1.16.3
+pillow==12.1.0
+imageio==2.37.2
+gdown==5.2.0
+ipykernel==7.1.0
+jupyter_client==8.7.0
+tqdm==4.67.1
+
+# PyTorch (version specified in backend-specific files)
+torch==2.4.1
+torchvision==0.19.1
+torchsummary==1.5.1

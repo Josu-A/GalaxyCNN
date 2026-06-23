@@ -1,0 +1,8 @@
+# Downloaded data files
+data/
+
+# Virtual environment
+galaxyenv/
+
+# Compiled files
+out/
